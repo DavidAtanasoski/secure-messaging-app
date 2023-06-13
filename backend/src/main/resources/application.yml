@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/messenger
+    username: keko24
+    password: kotevski02
+    driver-class-name: org.postgresql.Driver
