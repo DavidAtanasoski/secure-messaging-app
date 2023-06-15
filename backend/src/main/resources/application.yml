@@ -4,3 +4,6 @@ spring:
     username: keko24
     password: kotevski02
     driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
